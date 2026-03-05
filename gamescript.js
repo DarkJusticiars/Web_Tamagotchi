@@ -105,6 +105,6 @@ function gameTick(){
 
 }
 
-setInterval(gameTick, 5000);
+setInterval(gameTick, 60000);
 
 updateMenu();
